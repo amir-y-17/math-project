@@ -13,3 +13,17 @@ def add(x, y):
         float: The sum of x and y.
     """
     return x + y
+
+
+def subtract(x, y):
+    """
+    Subtracts the second number from the first.
+
+    Args:
+        x (float): The number to subtract from.
+        y (float): The number to subtract.
+
+    Returns:
+        float: The result of x minus y.
+    """
+    return x - y
